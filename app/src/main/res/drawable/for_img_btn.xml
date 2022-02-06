@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:style="http://schemas.android.com/tools">
+
+    <item android:state_active="false"
+        android:drawable="@drawable/img_btn_not_active"/>
+
+    <item android:state_active="true"
+        android:drawable="@drawable/ripple_effect_buttons"/>
+
+</selector>

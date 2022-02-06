@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_message">Похоже что-то пошло не так. Проверьте свое интернет-соединение.</string>
+</resources>
